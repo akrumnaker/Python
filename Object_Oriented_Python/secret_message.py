@@ -33,4 +33,6 @@ def rename_files(files, path):
     """
     for file in files:
         clean_name = cleanup_file_name(file)
+        print("old name: " + file)
+        print("new name: " + clean_name)
         os.rename(path + "/" + file, path + "/" + clean_name)
