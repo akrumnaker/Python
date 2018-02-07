@@ -1,7 +1,5 @@
 # This python script contains various functions to draw
 # shapes using the turtle module of python
-import turtle
-
 
 def draw_square(turt):
     """
