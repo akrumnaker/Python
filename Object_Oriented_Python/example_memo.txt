@@ -1,0 +1,9 @@
+This is a random text file created for the use as a test case in the profanity_editor.py
+script. The intent of the script is to search for curse words inside text, such as this
+file and remove them.
+
+It will attempt to remove words such as "ass", "shit", etc.
+
+So, now that this has been discussed, maybe we should take a shit at trying to figure this
+out. Ass uming that the script works as intended, there may be some differences once the
+script has finished its job.
